@@ -11,6 +11,23 @@
     <TextView
         android:text="@string/hello_world"
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content" />
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="createNotification"
+        android:text="Create Notification"
+        android:layout_centerVertical="true" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="createWearNotification"
+        android:text="Create Wear Notification"
+        android:layout_above="@id/button1"/>
 
 </RelativeLayout>

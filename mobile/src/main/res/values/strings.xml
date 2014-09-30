@@ -5,4 +5,9 @@
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
 
+
+    <string name="label">label</string>
+    <string name="title">title</string>
+    <string name="content">contents</string>
+
 </resources>
