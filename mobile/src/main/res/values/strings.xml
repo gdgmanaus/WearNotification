@@ -2,12 +2,14 @@
 <resources>
 
     <string name="app_name">WearNotification</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="action1">Sim</string>
+    <string name="action2">Não</string>
+    <string name="title">GDG Manaus</string>
+    <string name="notification">Vamos participar?</string>
+
+    <string name="title_activity_activity_result2">Ok boa sorte sozinho.</string>
+    <string name="title_activity_activity_result1">Bora estudar juntos que um ajuda o outro :)</string>
+
     <string name="action_settings">Settings</string>
-
-
-    <string name="label">label</string>
-    <string name="title">title</string>
-    <string name="content">contents</string>
 
 </resources>

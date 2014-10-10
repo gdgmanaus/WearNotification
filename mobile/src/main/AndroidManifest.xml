@@ -16,10 +16,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-
-        <activity android:name=".NotificationReceiverActivity"
-            android:label="NotificationReceiver" />
-
+        <activity android:name=".ActivityResult1" />
+        <activity android:name=".ActivityResult2" />
     </application>
 
 </manifest>
